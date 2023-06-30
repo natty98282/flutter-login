@@ -43,7 +43,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#project">Go to the Project</a></li>
     <li><a href="#api_doc">Api Documetation</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 Dowell Newsletter App is a user-friendly app that allows you to subscribe and unsubscribe to Dowell Newsletter channel. With its attractive user interface and good quality user experience, you can easily stay updated with new information by subscribing to the newsletter.
 
 Additionally, the app allows user the check subscribed users to the newslatter. the app performance have been optimized whihc makes it fast and light.
@@ -113,18 +113,9 @@ After the Environment is set, next donwload, get dependency and run the App
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Contributing
+## project
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,9 +133,9 @@ Distributed under the apache License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## api_doc
 
-the project is integrated with Dowell Newsletter Api 
+the project is integrated with Dowell Newsletter Api
 
-<p>the link for the Api documentation <a href="#">Acknowledgments</a></p>
+<p>the link for the Api documentation <a href="https://github.com/orgs/DoWellUXLab/">Acknowledgments</a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
