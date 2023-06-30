@@ -135,7 +135,7 @@ Distributed under the apache License. See `LICENSE.txt` for more information.
 
 the project is integrated with Dowell Newsletter Api
 
-<p>the link for the Api documentation <a href="https://github.com/orgs/DoWellUXLab/">Acknowledgments</a></p>
+<p>the link for the Api documentation <a href="https://github.com/orgs/DoWellUXLab/">Dowell NewsLatter Api documentation</a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
