@@ -115,7 +115,8 @@ After the Environment is set, next donwload, get dependency and run the App
 
 ## project
 
-To view published web <a href="https://dowell-newsletter-test.flutterflow.app/"></a>
+To view published web 
+<p><a href="https://dowell-newsletter-test.flutterflow.app/"></a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
