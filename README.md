@@ -20,7 +20,7 @@
   <p align="center">
     Dowell NewsLetter Subscription App
     <br />
-    <a href="https://app.flutterflow.io/share/dowell-newsletter-mefrnp">View Demo</a>
+    <a href="https://dowell-newsletter-test.flutterflow.app/">View Published Web app</a>
   </p>
 </div>
 
@@ -55,9 +55,9 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]]
-Dowell Newsletter App is a user-friendly app that allows you to subscribe and unsubscribe to Dowell Newsletter channel. With its attractive user interface and good quality user experience, you can easily stay updated with new information by subscribing to the newsletter.
+Dowell Newsletter Subscription App is an app that allows users to subscribe and unsubscribe to Dowell Newsletter channel. With its attractive user interface and good quality of user experience, you can easily stay updated with new information by subscribing to the newsletter.
 
-Additionally, the app allows user the check subscribed users to the newslatter. the app performance have been optimized whihc makes it fast and light.
+Additionally, the app show the list of subscribed users to the newslatter. the app performance have been optimized which makes it fast and light.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,7 +65,7 @@ Additionally, the app allows user the check subscribed users to the newslatter. 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+the application is build using flutterflow
 
 * [![Flutter][Flutter]][Flutter-url]
 * [![FlutterFlow][FlutterFlow]][FlutterFlow-url]
@@ -115,7 +115,7 @@ After the Environment is set, next donwload, get dependency and run the App
 
 ## project
 
-
+To view published web <a href="https://dowell-newsletter-test.flutterflow.app/"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
