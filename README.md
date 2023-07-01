@@ -55,9 +55,9 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]]
-Dowell Newsletter Subscription App is an app that allows users to subscribe and unsubscribe to Dowell Newsletter channel. With its attractive user interface and good quality of user experience, you can easily stay updated with new information by subscribing to the newsletter.
+"Dowell Newsletter Subscription App is an app that allows users to subscribe and unsubscribe to Dowell Newsletter channel. With its attractive user interface and good quality of user experience, you can easily stay updated with new information by subscribing to the newsletter.
 
-Additionally, the app show the list of subscribed users to the newslatter. the app performance have been optimized which makes it fast and light.
+Additionally, the app shows the list of subscribed users to the newsletter. The app’s performance has been optimized which makes it fast and light."
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,7 +65,7 @@ Additionally, the app show the list of subscribed users to the newslatter. the a
 
 ### Built With
 
-the application is build using flutterflow
+this application is build using flutterflow
 
 * [![Flutter][Flutter]][Flutter-url]
 * [![FlutterFlow][FlutterFlow]][FlutterFlow-url]
@@ -115,19 +115,9 @@ After the Environment is set, next donwload, get dependency and run the App
 
 ## project
 
-<p>To view published web <a href="https://dowell-newsletter-test.flutterflow.app/">link</a></p>
+<p>view published web <a href="https://dowell-newsletter-test.flutterflow.app/">link</a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the apache License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
