@@ -113,9 +113,11 @@ After the Environment is set, next donwload, get dependency and run the App
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## project
+## How to use the app
 
-<p>view published web <a href="https://dowell-newsletter-test.flutterflow.app/">link</a></p>
+1. <p>go to the published web <a href="https://dowell-newsletter.flutterflow.app/">link</a></p>
+
+2. <p>press get started to be redirected to the home page</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
